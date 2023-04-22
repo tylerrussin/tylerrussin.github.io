@@ -1,2 +1,2 @@
 # tylerrussin.github.io
-just my personal website
+just my personal website.
